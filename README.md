@@ -1,2 +1,4 @@
-Update project name to Chinese '轮训'
-H5支付小程序
+# 微信支付，支付宝支付
+
+## pay 目录为微信、支付宝支付接口联调
+## pay-platform 为支付平台，集成微信、支付宝支付，通过http形式提供给业务方调用，推荐！！
